@@ -11,6 +11,7 @@ PiQuant의 제품 AirQuant 소개 및 홍보 사이트
 ### <span style="color:#0066ff"> 👩‍💻 &nbsp; 팀원 구성 </span>
 
 - 고석영
+- 정재빈
 
 ### <span style="color:#0066ff"> 🛠 &nbsp; 기술 스택 </span>
 
