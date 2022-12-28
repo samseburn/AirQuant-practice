@@ -3,7 +3,7 @@ import React from 'react';
 const jaebin = () => {
 	return (
 		<div>
-			<h1>Test</h1>
+			<h1>Test22</h1>
 		</div>
 	);
 };
