@@ -9,6 +9,7 @@ const SeoyoonTest = () => {
                     <td>안녕</td>
                     <td>하세</td>
                     <td>용</td>
+                    <td>gg</td>
                 </tr>
             </table>
             <h3>응애 응애 🔥</h3>
